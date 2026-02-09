@@ -10,7 +10,7 @@ public class LocationTrackerService {
 
 
     private static final List<String> NUMBERS = Arrays.asList(
-            "+918448641646", "+919015226215", "+919560481916",
+           "+919015226215", "+919560481916",
             "+918750351419", "+919911632885", "+918381582591","+917004841784","+919939355635","+918076182180","+917091586450",
         "+917091586450"
     );
@@ -28,6 +28,7 @@ public class LocationTrackerService {
         }
     }
 }
+
 
 
 
